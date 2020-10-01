@@ -1,4 +1,4 @@
-# CloudyGo
+# CloudyGo this is amazing script
 
 Frontend for displaying
 [MiniGo](https://github.com/tensorflow/minigo),
